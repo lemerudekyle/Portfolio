@@ -4,7 +4,8 @@
   <title>Portfolio</title>
 </head>
 <body>
-<img src="http://pa1.narvii.com/5860/3c599ccf215b2600ab3d3e5a9a9e0359837763fa_hq.gif"> 
+<img src="http://pa1.narvii.com/5860/3c599ccf215b2600ab3d3e5a9a9e0359837763fa_hq.gif">
+<link href="/style.css" type="text/css" rel="stylesheet" />
 
   <h1>Jazrell Kyle ^^,</h1>
 
